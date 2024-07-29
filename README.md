@@ -66,6 +66,3 @@ To enhance the verification process and mitigate risks associated with loan defa
 ## Team
 - [Akshay Handoo](https://www.linkedin.com/in/akshay-handoo-88b9b5150/)
 - [Karan Afuwale](https://www.linkedin.com/in/karan-afuwale-06380114/)
-
-## Contact
-Created by [@karan-afuwale]- feel free to contact me!
